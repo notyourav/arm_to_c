@@ -1,4 +1,9 @@
-# mips_to_c
+# arm_to_c
+
+Implementation of mips_to_c for ARM instructions. Doesn't currently work
+
+============================================
+
 Given some MIPS assembly, this program will attempt to convert it to C.
 The goal is that eventually the output will be well-formed C, and eventually after that, byte-equivalent C.
 
